@@ -1,4 +1,3 @@
-# JY3T27.
-My Personal Repo
-
-as;dlkfja;sldfkj
+# JY3T27
+Hello World. 
+I'm Jia Jyet. 
