@@ -2,7 +2,7 @@ Hi 👋 My name is Jia Jyet
 =========================
 
 I'm a 4th year Network Engineering student at Universiti Malaysia Sabah who have big interest on programming and building websites. <br>
-Currently, I'm doing my internship as a <span style="font-weight=bold">Software Developer Intern at Caction Sdn. Bhd. at Subang SS15, Selangor, Malaysia. <br>
+Currently, I'm doing my internship as a <span style="font-weight=bold">Software Developer Intern</span> at Caction Sdn. Bhd. at Subang SS15, Selangor, Malaysia. <br>
 Caction is a business management system, focusing on delivering innovative software solutions that enhance user experience and drive business efficiency. <br>
 
 * 🌍  I'm based in Malaysia
