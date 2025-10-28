@@ -7,7 +7,6 @@ I'm still new to the computer science field, but I'm passionate about learning a
 * 📍  I'm based in Malaysia
 * ✉️  You can contact me at [jjlee2703@gmail.com](mailto:jjlee2703@gmail.com)
 * 💻  I'm learning Vue.js and Laravel Framework
-* 🧑‍🎓  Doing internship as a Software Developer intern in Caction Sdn. Bhd. at Subang SS15, Selangor
 * ⏳  Expected to graduate at December 2025
 
 ### Skills
