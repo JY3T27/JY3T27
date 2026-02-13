@@ -5,7 +5,7 @@ I'm a 4th year Network Engineering student at Universiti Malaysia Sabah who have
 With my interest and problem-solving skill, I able to create few simple projects(2D unity game, Some 2D and 3D animation and simple website projects).
 I'm still new to the computer science field, but I'm passionate about learning and growing every day. I hope to improve my skills, contribute to meaningful projects, and grow together with this ever-evolving industry.
 * 📍  I'm based in Malaysia
-* ✉️  You can contact me at [jjlee2703@gmail.com](mailto:jjlee2703@gmail.com)
+* ✉️  You can contact me at [jiajyet01@gmail.com](mailto:jiajyet01@gmail.com)
 * 💻  I'm learning Vue.js and Laravel Framework
 * ⏳  Expected to graduate at December 2025
 
