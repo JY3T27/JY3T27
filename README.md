@@ -1,13 +1,13 @@
 Hi 👋 My name is Jia Jyet
 =========================
 
-I'm a 4th year Network Engineering student at Universiti Malaysia Sabah who have big interest on programming. <br>
-With my interest and problem-solving skill, I able to create few simple projects(2D unity game, Some 2D and 3D animation and simple website projects).
+Hi! I'm an Associate Test Engineer with a background in Network Engineering and a passion for software and web development. <br> 
+With my interest and problem-solving skill, I able to create few simple projects(2D unity game, Some 2D and 3D animation and simple website projects). <br>
+I enjoy exploring solving problems, and building applications. Currently improving my skills in React.
 I'm still new to the computer science field, but I'm passionate about learning and growing every day. I hope to improve my skills, contribute to meaningful projects, and grow together with this ever-evolving industry.
 * 📍  I'm based in Malaysia
 * ✉️  You can contact me at [jiajyet01@gmail.com](mailto:jiajyet01@gmail.com)
 * 💻  I'm learning Vue.js and Laravel Framework
-* ⏳  Expected to graduate at December 2025
 
 ### Skills
 
